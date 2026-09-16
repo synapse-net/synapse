@@ -1,0 +1,2 @@
+ac40aba1633806c311796fb51a34508d6a08661abbb4e61bd73370a498edbf81  synapse_v0.5.6_linux_amd64.tar.gz
+643c2502effb7fc73fda0580ecc125b941bca185efa81b58bb485e4ae873dab7  synapse_v0.5.6_linux_arm64.tar.gz

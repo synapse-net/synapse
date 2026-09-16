@@ -1,0 +1,18 @@
+Synapse — proprietary software
+Copyright (c) 2026 the Synapse authors. All rights reserved.
+
+The binaries published in this repository are distributed for use as-is. No source
+code is licensed, published, or implied by this distribution.
+
+You may:
+  - download and run the binaries on machines you control;
+  - redistribute the unmodified release tarballs together with this notice.
+
+You may not:
+  - modify, reverse engineer, decompile, or disassemble the binaries;
+  - rent, resell, sublicense, or offer them as a service without written permission;
+  - remove or alter any licence, watermark, or attribution they carry.
+
+A paid licence grant covers only the machines it names. The software is provided
+without warranty of any kind; the authors are not liable for any damage arising from
+its use.
